@@ -145,3 +145,7 @@ img {
   max-width: 50% !important;
   height: auto;
 }
+
+body {
+  user-select: none !important;
+}
