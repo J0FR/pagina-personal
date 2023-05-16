@@ -44,8 +44,9 @@ html.fp-enabled {
 	width: 100%;
 }
 .fp-tableCell {
-	display: table-cell;
+	/* display: table-cell; */
 	vertical-align: middle;
+	padding-top: 20%;
 	width: 100%;
 	height: 100%;
 }
