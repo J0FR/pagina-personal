@@ -700,6 +700,7 @@
 									(s = o),
 									(c = n) || null != yn(Qt)[0] || Nn(s, Xt),
 									(f = yn(Qt)[0]),
+									// Tn(s, { height: 20 + "px" }),
 									Tn(s, { height: A + "px" }),
 									E.paddingTop && Tn(s, { "padding-top": E.paddingTop }),
 									E.paddingBottom &&

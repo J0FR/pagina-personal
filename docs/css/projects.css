@@ -93,3 +93,7 @@
 rect {
 	background-color: aqua !important;
 }
+
+html {
+	scroll-behavior: smooth !important;
+}
