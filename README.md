@@ -18,7 +18,7 @@
 ## Personal Website Overview
 ![1](https://cdn.discordapp.com/attachments/1086114714771267614/1115087656121028608/image.png)
 ![2](https://cdn.discordapp.com/attachments/1086114714771267614/1115087760844406824/image.png)
-![3](https://cdn.discordapp.com/attachments/1086114714771267614/1115087823582789713/image.png)
+![3](https://cdn.discordapp.com/attachments/1086114714771267614/1115103531083518013/image.png)
 ![4](https://cdn.discordapp.com/attachments/1086114714771267614/1115087904344117359/image.png)
 
 ## Built With
